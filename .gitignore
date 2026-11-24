@@ -1,0 +1,23 @@
+# Dataset, large local environments, and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/raw/
+*.part
+
+# Fitted models can be regenerated and are too large for a normal submission
+results/models/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+~$*
+
+# Workspace agent data and document build intermediates
+.workbuddy/
+output/
+
+# Keep generated metrics, figures, reports, and their editable sources tracked.
