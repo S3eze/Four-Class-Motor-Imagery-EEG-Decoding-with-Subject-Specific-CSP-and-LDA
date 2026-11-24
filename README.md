@@ -5,7 +5,8 @@ design project. The pipeline classifies four classes of motor imagery (left hand
 tongue) from 22 EEG channels using one-vs-rest Common Spatial Patterns (CSP) and shrinkage Linear
 Discriminant Analysis (LDA), with each of the nine subjects modeled independently.
 
-> **Note:** This repository is the course submission.
+> **Course:** Biomedical Signal Processing &nbsp;·&nbsp; **Author:** Zhao Wentao &nbsp;·&nbsp;
+> **Repository:** <https://github.com/S3eze/Four-Class-Motor-Imagery-EEG-Decoding-with-Subject-Specific-CSP-and-LDA>
 
 ## Results (held-out evaluation sessions)
 
